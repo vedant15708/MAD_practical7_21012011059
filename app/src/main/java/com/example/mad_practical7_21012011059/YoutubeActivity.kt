@@ -12,10 +12,11 @@ class YoutubeActivity : AppCompatActivity() {
         setContentView(R.layout.activity_youtube)
 
         val youtubewebview=findViewById<WebView>(R.id.webview)
+        val youtubeId = "fJn9B64Znrk"
         val webSettings:WebSettings=youtubewebview.settings
         webSettings.javaScriptEnabled=true
         webSettings.loadWithOverviewMode=true
         webSettings.useWideViewPort=true
-        youtubewebview.loadUrl("https://www.youtube.com/embed/$youtubewebview")
+        youtubewebview.loadUrl("https://www.youtube.com/embed/$youtubeId")
     }
 }
