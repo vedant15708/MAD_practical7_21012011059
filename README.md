@@ -4,3 +4,5 @@ Create an Video player application by following below instructions.
 3.There should be Floating Button on both Activities according to below image. After pressing that button, it will switch from one activity to another activity by using explicit intent.
 4.Add Internet Permssion in Manifest file
 <img src="https://github.com/vedant15708/MAD_practical7_21012011059/assets/98215447/493435b0-369e-441a-9c05-b601666aae91" width=20% height=20%>
+
+<img src="https://github.com/vedant15708/MAD_practical7_21012011059/assets/98215447/88c68046-6de2-4084-9608-3030b758124d" width=20% height=20%>
